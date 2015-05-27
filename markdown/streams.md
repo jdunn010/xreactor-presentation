@@ -53,6 +53,15 @@ Linus Torvalds
   * Lambdas and Method References
 
 
+### Legacy XRE Apps Have All Migrated to Java 8
+
+  Sports, Weather, Stocks, etc. migrated Spring 2015
+  
+  Seamless Transition -- Just Worked
+
+  Using XRE Platform 1.50.x and 1.51.x
+
+
 The Reactive Streams Specification
 
 http://www.reactive-streams.org/
