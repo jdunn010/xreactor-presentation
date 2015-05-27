@@ -44,6 +44,13 @@ Linus Torvalds
 ![Image of java 8 pipeline](images/java8pipeline.jpg)
 
 
+### Java 8 Streams Provide:
+
+  * Pipelining -- Stream Ops That Return Stream
+  * Iteration Handled Internally
+  * Parallel Processing Handled Internally
+  * Intermediate Storage/Accumulation Handled Internally
+
 The Reactive Streams Specification
 
 http://www.reactive-streams.org/
