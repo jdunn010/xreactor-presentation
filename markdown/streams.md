@@ -15,7 +15,9 @@ Flow, Pipes, Pipelines, Channels, Filters, Sequences, Series, etc.
 
 ### Pipelines
     netstat -na|grep 10022|wc -l
->"Everything is a ~~file~~ stream of bytes" 
+>"The UNIX philosophy is often quoted as "everything is a file", but that
+really means "everything is a stream of bytes"." 
+
 Linus Torvalds
 
 
