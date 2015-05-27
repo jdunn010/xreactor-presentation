@@ -50,6 +50,8 @@ Linus Torvalds
   * Iteration Handled Internally
   * Parallel Processing Handled Internally
   * Intermediate Storage/Accumulation Handled Internally
+  * Lambdas and Method References
+
 
 The Reactive Streams Specification
 
