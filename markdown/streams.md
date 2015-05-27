@@ -21,6 +21,16 @@ really means "everything is a stream of bytes"."
 Linus Torvalds
 
 
+### Java 8 Streams
+
+     List<Integer> transactionsIds = 
+       transactions.stream()
+                .filter(t -> t.getType() == Transaction.GROCERY)
+                .sorted(comparing(Transaction::getValue).reversed())
+                .map(Transaction::getId)
+                .collect(toList());
+
+
 The Reactive Streams Specification
 
 http://www.reactive-streams.org/
