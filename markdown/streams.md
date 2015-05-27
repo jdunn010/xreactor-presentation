@@ -61,7 +61,3 @@ Linus Torvalds
 
   Using XRE Platform 1.50.x and 1.51.x
 
-
-The Reactive Streams Specification
-
-http://www.reactive-streams.org/
