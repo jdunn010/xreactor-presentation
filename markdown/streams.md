@@ -31,6 +31,19 @@ Linus Torvalds
                 .collect(toList());
 
 
+### Java 8 Parallel Streams
+
+     List<Integer> transactionsIds = 
+       transactions.parallelStream()
+                .filter(t -> t.getType() == Transaction.GROCERY)
+                .sorted(comparing(Transaction::getValue).reversed())
+                .map(Transaction::getId)
+                .collect(toList());
+
+
+![Image of java 8 pipeline](images/java8pipeline.jpg)
+
+
 The Reactive Streams Specification
 
 http://www.reactive-streams.org/
