@@ -22,11 +22,25 @@
 
 ###Boon Serialization Codecs -- JSON Parsing
 
+Once TCP connection is established, feed contents to JSON parser.
+
+Is Boon fastest parser available? Who cares, it's JSON. 
+
+
+###XReactor Library Functionality -- Delegate to App
+
+XRE Protocol basics in shared, reusable library (onConnect, activate, etc.)
+
+Separate Out TCP Connection Management from Application.
+
 
 ###Performance Status
 
-* XreBoss load test tool
-* AWS experimentation
+XreBoss load test tool
+
+https://github.comcast.com/agerho000/xreboss
+
+Written in GO, next iteration support for 10K XRE clients per process.
 
 
 ###Single Host vs. Distributed Actors

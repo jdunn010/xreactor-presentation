@@ -23,5 +23,8 @@ https://www.teamccp.com/confluence/display/APPS/XRE+Protocol+Specification
 WebPA Project Confluence Page
 https://www.teamccp.com/confluence/display/CPE/WebPA
 
+Akka IO Package Implementation Details
+http://doc.akka.io/docs/akka/2.3.11/dev/io-layer.html#io-layer
+
 
 ##THE END
