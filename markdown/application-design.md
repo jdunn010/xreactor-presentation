@@ -32,9 +32,9 @@ https://facebook.github.io/flux/docs/overview.html
 ![Flux Image Phase Three](images/flux-simple-f8-diagram-explained-1300w.png)
 
 
-#### Walking the DOM Is Slow
+### Walking the DOM Is Slow
 
-Don't Walk the DOM!
+So, Don't Walk the DOM!
 
 React.js Is Facebook's Solution
 
