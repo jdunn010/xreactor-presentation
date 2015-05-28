@@ -10,6 +10,23 @@ Weak In Managing Multiple Sources of Change
 
 ### FLUX IS FACEBOOK'S SOLUTION
 
-Evolution from MVC 
+Evolution from MVC
 
 Data Always Flows In Just One Direction
+
+[Facebook Flux Overview] (https://facebook.github.io/flux/docs/overview.html)
+
+
+####One Direction
+
+![Flux Image Phase One](images/flux-simple-f8-diagram-1300w.png)
+
+
+####Client Action Flow
+
+![Flux Image Phase Two](images/flux-simple-f8-diagram-with-client-action-1300w.png)
+
+
+####Fuller Explanation
+
+![Flux Image Phase Three](images/flux-simple-f8-diagram-explained-1300w.png)
