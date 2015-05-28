@@ -20,5 +20,8 @@ http://ijcai.org/Past%20Proceedings/IJCAI-73/PDF/027B.pdf
 XRE Protocol Specification: 
 https://www.teamccp.com/confluence/display/APPS/XRE+Protocol+Specification
 
+WebPA Project Confluence Page
+https://www.teamccp.com/confluence/display/CPE/WebPA
+
 
 ##THE END

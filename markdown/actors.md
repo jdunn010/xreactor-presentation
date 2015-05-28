@@ -38,6 +38,6 @@ Akka is a toolkit and runtime for building concurrent and distributed JVM applic
 
 * XReactor (Java 8)
 * Gumby (Scala)
-* PbA (Java 8)
+* WebPA (Java 8)
 
 Please join Slack Chat Room #akka
