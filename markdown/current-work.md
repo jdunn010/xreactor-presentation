@@ -17,6 +17,22 @@ Current: DynamoDB and DynamoDB Streams (Beta AWS product)
   * Commands
 
 
+###Event Table
+
+GUID  | EVENT_ID |  TIMESTAMP | JSON | SOURCE_ID
+______|__________|____________|______|__________
+
+Primary Key = GUID + EVENT_ID
+
+
+###Command Table
+
+GUID | CMD_ID  | TIMESTAMP | JSON | SOURCE_ID
+_____|_________|___________|______|__________
+
+Primary Key = GUID + EVENT_ID
+
+
 ####TCP Acceptor Process
   * Writes to Events
   * Listens for Commands
