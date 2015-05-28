@@ -28,7 +28,7 @@ Primary Key = GUID + EVENT_ID
 
 GUID | CMDID  | TIMESTAMP | JSON | SOURCEID
 
-Primary Key = GUID + EVENT_ID
+Primary Key = GUID + CMD_ID
 
 
 ####TCP Acceptor Process
