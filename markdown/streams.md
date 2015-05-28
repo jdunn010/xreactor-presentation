@@ -5,7 +5,13 @@
 ##Stream Is Central Metaphor of Reactive Programming
 
 
-##Stream Evokes Other Related Metaphors
+##So, Apps Are Streams
+
+
+##Streams Do Not Launch!!!
+
+
+##Stream Evokes Other Non-Rocket Related Metaphors
 Flow, Pipes, Pipelines, Channels, Filters, Sequences, Series, etc.
 
 
