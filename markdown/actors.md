@@ -23,13 +23,12 @@ Developed By Ericsson to run telephony switches.
 Akka is a toolkit and runtime for building concurrent and distributed JVM applications, explicitly patterned on Erlang
 
 
-####Key Features of Actor Systems
+###Key Features of Actor Systems
 
 * Entirely Message Driven
 * Immutable Messages
-* Completely Asynchronous
-* Asynchrony Managed By Runtime
-* Actors Always Run on Single Thread
+* Managed Asynchronous Actor Execution
+* Actors Always Run on Single Thread - Internal State OK
 * Actor Supervision Policies  ("Let it Crash")
 * Transparent Remote Execution
 
