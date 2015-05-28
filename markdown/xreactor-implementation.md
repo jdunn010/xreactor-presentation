@@ -3,6 +3,8 @@
 
 ###Overall Architecture
 
+Separate TCP and JSON/XRE Away From Other Components
+
 
 ###Akka Actor Refs For TCP Server
 
