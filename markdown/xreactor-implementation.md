@@ -24,7 +24,7 @@
 
 Once TCP connection is established, feed contents to JSON parser.
 
-Is Boon fastest parser available? Who cares, it's JSON. 
+Is Boon fastest parser available? Who cares, it's JSON, it's going to be slow. 
 
 
 ###XReactor Library Functionality -- Delegate to App
@@ -34,7 +34,18 @@ XRE Protocol basics in shared, reusable library (onConnect, activate, etc.)
 Separate Out TCP Connection Management from Application.
 
 
-###Performance Status
+###Akka Experience
+
+Very gentle learning curve (for Java)
+
+Great online documentation
+
+Naturally leads to small, easy to test/debug classes
+
+Negative -- untyped messages (a feature?)
+
+
+###Performance Test Status
 
 XreBoss load test tool
 
