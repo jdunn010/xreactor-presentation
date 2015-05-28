@@ -21,14 +21,12 @@ Current: DynamoDB and DynamoDB Streams (Beta AWS product)
 
 GUID  | EVENTID |  TIMESTAMP | JSON | SOURCEID
 
-
 Primary Key = GUID + EVENT_ID
 
 
 ###Command Table
 
 GUID | CMDID  | TIMESTAMP | JSON | SOURCEID
-
 
 Primary Key = GUID + EVENT_ID
 
