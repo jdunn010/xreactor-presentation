@@ -24,13 +24,12 @@ China’s leading mobile entertainment search engine
 
 ### Multiple Implementations Available
 
-* Reactive Extensions (RX) 
 ![Image of RX](images/ReactiveX.png)
 
 
-* Akka
-![Image of Akka Logo](images/akka_full_color.svg)
+
+![Image of Akka Logo](images/akka.png)
 
 
-* VertX
+
 ![Image of Vertx Logo](images/vertx-logo-white-big.png)
