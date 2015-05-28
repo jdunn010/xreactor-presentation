@@ -21,7 +21,7 @@ Developed By Ericsson to run telephony switches.
 ####Akka -- Actors for JVM
 
 Akka is a toolkit and runtime for building concurrent and distributed JVM applications, explicitly patterned on Erlang
-
+![akka marketing material](images/Akka.png)
 
 ###Key Features of Actor Systems
 
