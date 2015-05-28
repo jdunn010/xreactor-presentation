@@ -23,4 +23,14 @@ Developed By Ericsson to run telephony switches.
 Akka is a toolkit and runtime for building concurrent and distributed JVM applications, explicitly patterned on Erlang
 
 
+####Key Features
+
+* Entirely Message Driven
+* Immutable Messages
+* Completely Asynchronous
+* Asynchrony Managed By Runtime
+* Actors Always Run on Single Thread
+* Actor Supervision Policies
+* Transparent Remote Execution
+
 ####XReactor -- Implemented Using Akka/Java 8
