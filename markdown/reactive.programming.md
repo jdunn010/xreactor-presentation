@@ -27,9 +27,7 @@ China’s leading mobile entertainment search engine
 ![Image of RX](images/ReactiveX.png)
 
 
-
 ![Image of Akka Logo](images/akka.png)
-
 
 
 ![Image of Vertx Logo](images/vertx-logo-white-big.png)
