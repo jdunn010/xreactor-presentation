@@ -21,7 +21,3 @@ China’s leading mobile entertainment search engine
 
 ![Image of Reactive Systems](images/reactive-traits.svg)
 
-
-## The Reactive Manifesto
-
-http://www.reactivemanifesto.org/
