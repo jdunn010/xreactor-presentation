@@ -40,4 +40,4 @@ React.js Is Facebook's Solution
 
 https://facebook.github.io/react/
 
-Not Currently Translatable To XRE
+React To XRE, A Bridge Too Far?
