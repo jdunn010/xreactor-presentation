@@ -45,4 +45,4 @@ Primary Key = GUID + CMD_ID
   * Commands No Longer Just Responses to Events
   * Commands Come Whenever, From Wherever 
   * Proposed Demos: Jabber, Chess, etc.
-  * Not the "Web World"
+  * Leave the "Web Age" Behind
