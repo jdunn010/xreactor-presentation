@@ -29,5 +29,8 @@ https://www.teamccp.com/confluence/display/CPE/WebPA
 Akka IO Package Implementation Details
 http://doc.akka.io/docs/akka/2.3.11/dev/io-layer.html#io-layer
 
+Jackie Stewart Mechanical Sympathy quotation is from Martin Thompson and can be found here:
+https://skillsmatter.com/meetups/1879-mechanical-sympathy
+
 
 ##THE END
