@@ -6,6 +6,7 @@
 >This paper proposes a modular ACTOR architecture and definitional method for artificial intelligence that is conceptually based on a single kind of object: actors (or, if you will, virtual processors, activation frames, or streams).
  
 
+
 ####More Carl Hewitt
 
 Interview with Eric Meijer, developer of RX (Reactive Extenstions for .NET)
