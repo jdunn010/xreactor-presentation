@@ -39,3 +39,10 @@ Primary Key = GUID + CMD_ID
 ####Application Process
   * Writes to Commands
   * Listens for Events
+
+
+## THIS MEANS COMMANDS ARE A STREAM TOO!
+  * Commands No Longer Just Responses to Events
+  * Commands Come Whenever, From Wherever 
+  * Proposed Demos: Jabber, Chess, etc.
+  * Not the "Web World"
