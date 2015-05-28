@@ -14,7 +14,11 @@ Quote from Linus Torvalds Can Be Found: http://yarchive.net/comp/linux/everythin
 
 Java 8 Stream Examples Are From Oracle: http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html
 
-Carl Hewitt; Peter Bishop; Richard Steiger (1973). "A Universal Modular Actor Formalism for Artificial Intelligence". IJCAI
+Carl Hewitt; Peter Bishop; Richard Steiger (1973). "A Universal Modular Actor Formalism for Artificial Intelligence". IJCAI 
 http://ijcai.org/Past%20Proceedings/IJCAI-73/PDF/027B.pdf
+
+XRE Protocol Specification: 
+https://www.teamccp.com/confluence/display/APPS/XRE+Protocol+Specification
+
 
 ##THE END
