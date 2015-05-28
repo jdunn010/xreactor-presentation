@@ -6,12 +6,15 @@
 ### Alternative Encoding Schemes
 
 *Simple Binary Encoding
+
   https://github.com/real-logic/simple-binary-encoding
 
 *Cap'n Proto
+
   https://capnproto.org/
 
 *Flat Buffers
+
   https://github.com/google/flatbuffers
 
 Internally, our preference would be to not see any JSON. 
@@ -20,9 +23,11 @@ Internally, our preference would be to not see any JSON.
 ### Alternative Transport
 
 *Fast Remote Memory (FaRM)
+
   https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf
 
 *Aeron
+
   https://github.com/real-logic/Aeron
 
 Cloud computing without TCP.
