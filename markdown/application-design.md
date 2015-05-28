@@ -14,7 +14,7 @@ Evolution from MVC
 
 Data Always Flows In Just One Direction
 
-[Facebook Flux Overview] (https://facebook.github.io/flux/docs/overview.html)
+https://facebook.github.io/flux/docs/overview.html
 
 
 ####One Direction
