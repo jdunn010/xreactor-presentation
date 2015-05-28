@@ -26,3 +26,11 @@ really means "everything is a stream of bytes"."
 
 Linus Torvalds
 
+
+### Sequences
+
+A sequence of events is readily viewed as a Stream.
+
+Events can be mouse clicks, tweets, sports score updates, IM's, etc.
+
+XRE protocol has event primitives.
