@@ -1,4 +1,4 @@
-## Reactive Programming, What's the Big Deal?
+###What's the Big Deal?
 
 >10 million mobile devices connect to our system daily. We hope to serve them better via a real-time reactive platform, anywhere, anytime. In the Internet of Things age, The Network is shaping up to be a virtual world that reflects everyone’s daily life, or, The Network will map everyone’s life itself rather than just being part of their life as in the web age. We believe, in the long term, that reactive platforms will lead to such a virtual world.
 
