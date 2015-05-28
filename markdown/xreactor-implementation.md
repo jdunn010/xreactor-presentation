@@ -41,5 +41,3 @@ XreBoss load test tool
 https://github.comcast.com/agerho000/xreboss
 
 Written in GO, next iteration support for 10K XRE clients per process.
-
-
