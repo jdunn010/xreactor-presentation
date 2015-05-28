@@ -1,7 +1,11 @@
-Mechanical Sympathy
+##Mechanical Sympathy Movement
+
+London Financial Markets -- Center of Gravity
 
 http://mechanical-sympathy.blogspot.com/
 
-Martin Thompson
 
-LMAX Disruptor
+###Key Players
+
+Martin Thompson, Aeron, SBE and LMAX Disruptor
+Todd Montgomery, Aeron, SBE
