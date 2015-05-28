@@ -20,7 +20,7 @@ Developed By Ericsson to run telephony switches.
 
 ####Akka -- Actors for JVM
 
-Akka is a toolkit and runtime for building concurrent and distributed JVM applications
+Akka is a toolkit and runtime for building concurrent and distributed JVM applications, explicitly patterned on Erlang
 
 
 ####XReactor -- Implemented Using Akka/Java 8
