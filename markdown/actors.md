@@ -34,4 +34,10 @@ Akka is a toolkit and runtime for building concurrent and distributed JVM applic
 * Transparent Remote Execution
 
 
-####XReactor -- Implemented Using Akka/Java 8
+####Comcast Sunnyvale -- 3 Akka Projects Underway
+
+* XReactor (Java 8)
+* Gumby (Scala)
+* PbA (Java 8)
+
+Please join Slack Chat Room #akka
