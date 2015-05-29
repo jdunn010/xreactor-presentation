@@ -31,8 +31,3 @@ Internally, our preference would be to not see any JSON.
   https://github.com/real-logic/Aeron
 
 Cloud computing without TCP.
-
-
-
-
-
